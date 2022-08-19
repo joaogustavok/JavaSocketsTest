@@ -5,9 +5,10 @@ Simples exemple using Java Sockets
 
 run MyServer.java;
 
-run MyClient in cmd;
+run MyClient in cmd using:
 
 javac MyClient.java
+
 java MyClient
 
 Wait for the message in the server side
